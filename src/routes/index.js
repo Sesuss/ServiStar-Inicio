@@ -9,7 +9,7 @@ const log = console.log
 
 //Principal
 router.get("/",  (req, res) => { 
-    res.render("layouts/inicio2")
+    res.render("layouts/inicio3")
 })
 
 
